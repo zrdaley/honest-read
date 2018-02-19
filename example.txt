@@ -1,0 +1,3 @@
+It's time to curve your enthusiasm and stop using your friends as escape goats. 
+
+Use honest-read! A parser that checks for a range of bizzare english phrases that are often misused and will suggest the actual phrase as a replacement.

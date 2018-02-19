@@ -1,0 +1,8 @@
+curve:
+  - phrase: curve your enthusiasm
+    alert: This phrase is incorrect
+    rephrase: curb your enthusiasm
+escape:
+  - phrase: escape goat
+    alert: This phrase is incorrect
+    rephrase: scapegoat
